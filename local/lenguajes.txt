@@ -1,0 +1,6 @@
+Python JavaScript SQL
+Java PHP C# C++ TypeScript
+R Ruby Julia Swift Pascal
+Delphi Perl Scala
+Spark Go Drupal
+Hadoop Matlab Ajax Lisp
